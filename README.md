@@ -1,0 +1,2 @@
+# wordlist.olusturma
+Wordlist oluşturma
